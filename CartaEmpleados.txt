@@ -1,0 +1,14 @@
+%Nombre%
+%Cargo%
+%Direccion%
+
+	Estimado %Nombre%
+
+	Este año 2012, nuestra empresa ha aumentado sus ventas en un 40%, gracias al esfuerzo de todos, porl o que, en agradecimiento a su labor prestada, aumentamos %Aumento%% su sueldo a partir del próximo mes de Enero.
+
+	Un cordial Saludo:
+
+		1-Diciembre-2012
+
+		Carmen Alonso Martín
+		Presidenta

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE alumnos SYSTEM "AlumnosID.dtd">
+<alumnos>
+    <alumno codigo="a1">
+        <nome>Perico dos Palotes</nome>
+        <nota>8</nota>
+    </alumno>
+    <alumno codigo="a2">
+        <nome>Arsenio Lupin</nome>
+        <nota>7</nota>
+    </alumno>
+    <alumno codigo="a3">
+        <nome>Frodo Bolson</nome>
+        <nota>7</nota>
+    </alumno>
+    <alumno codigo="a4">
+        <nome>Smeagol</nome>
+        <nota>4</nota>
+    </alumno>
+    <alumno codigo="a5">
+        <nome>Pulgarcito</nome>
+        <nota>8</nota>
+    </alumno>
+    <alumno codigo="a6">
+        <nome>Blancanieves</nome>
+        <nota>9</nota>
+    </alumno>
+    <alumno codigo="a7">
+        <nome>Cenicienta</nome>
+        <nota>5</nota>
+    </alumno>
+    <alumno codigo="a8">
+        <nome>Bob Esponja</nome>
+        <nota>5</nota>
+    </alumno>
+</alumnos>

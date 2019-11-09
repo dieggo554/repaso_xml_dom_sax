@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Actores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Actores.xsd">
+   <Actor id="A59">
+      <Nome>Eliabeth Shue</Nome>
+      <Sexo>muller</Sexo>
+      <DataNacemento formato="dd/mm/aaaa">06/10/1963</DataNacemento>
+   </Actor>
+   <Actor id="A139">
+      <Nome>Jhonny Depp</Nome>
+      <Sexo>home</Sexo>
+      <DataNacemento formato="dd/mm/aaaa">09/06/1963</DataNacemento>
+   </Actor>
+   <Actor id="A120">
+      <Nome>Harrison Ford</Nome>
+      <Sexo>home</Sexo>
+      <DataNacemento formato="dd/mm/aaaa">11/11/1962</DataNacemento>
+   </Actor>
+   <Actor id="A40">
+      <Nome>Jackie Chan</Nome>
+      <Sexo>home</Sexo>
+      <DataNacemento formato="dd/mm/aaaa">05/01/1942</DataNacemento>
+   </Actor>
+</Actores>

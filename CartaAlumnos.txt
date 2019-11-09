@@ -1,0 +1,9 @@
+Estimado/a #Nombre#
+
+	Le comunico que su nota de Acceso a datos es #Nota# por lo que
+	#Descripcion#
+
+			Marín, 2-12-2012
+
+		Atentamente
+		María José Galán

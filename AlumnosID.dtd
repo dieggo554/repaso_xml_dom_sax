@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT alumnos (alumno+)>
+<!ELEMENT alumno (nome, nota)>
+<!ATTLIST alumno
+          codigo ID #REQUIRED>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT nota (#PCDATA)>

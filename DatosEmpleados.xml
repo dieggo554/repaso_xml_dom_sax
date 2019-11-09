@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Empleados xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="DatosEmpleados.xsd">
+	<Separador>%</Separador>
+	<Empleado>
+		<Nombre>Luis Perez Esteban</Nombre>
+		<Cargo>Director del Proyecto</Cargo>
+		<Direccion>Sol 3 , 36000 Pontevedra</Direccion>
+		<Aumento>300 euros</Aumento>
+	</Empleado>
+	<Empleado>
+		<Nombre>Maria Rodriguez Ramirez</Nombre>
+		<Cargo>Directora de tienda</Cargo>
+		<Direccion>Luna 50 , 36005 Pontevedra</Direccion>
+		<Aumento>200 euros</Aumento>
+	</Empleado>
+	<Empleado>
+		<Nombre>Esteban Alba Jimenez</Nombre>
+		<Cargo>Gerente</Cargo>
+		<Direccion>El callejon</Direccion>
+		<Aumento>175 euros</Aumento>
+	</Empleado>
+</Empleados>

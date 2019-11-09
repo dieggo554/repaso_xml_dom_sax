@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Alumnos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="DatosAlumnos.xsd">
+	<Separador>#</Separador>
+	<Alumno>
+		<Nombre>Raul Perez Goméz</Nombre>
+		<Nota>4</Nota>
+		<descripcion>ha suspendido el módulo y tiene que recuperarlo</descripcion>
+	</Alumno>
+	<Alumno>
+		<Nombre>Manual Sanz Perez</Nombre>
+		<Nota>8</Nota>
+		<descripcion>ha superado el módulo</descripcion>
+	</Alumno>
+	<Alumno>
+		<Nombre>Raquel López López</Nombre>
+		<Nota>3</Nota>
+		<descripcion>ha suspendido el módulo y tiene que recuperarlo</descripcion>
+	</Alumno>
+</Alumnos>
